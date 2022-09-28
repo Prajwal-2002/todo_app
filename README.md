@@ -34,7 +34,7 @@ This app uses flutter_launcher_icons package , to use that execute the following
   flutter pub run flutter_launcher_icons:main
 ```
 
-##Libraries & Tools Used
+## Libraries & Tools Used
 - [SQLite](https://pub.dev/packages/sqflite)
 - [GetX](https://pub.dev/packages/get)
 - [Local Notifications](https://pub.dev/packages/flutter_local_notifications)
